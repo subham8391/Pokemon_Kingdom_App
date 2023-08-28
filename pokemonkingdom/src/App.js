@@ -45,7 +45,8 @@ function App() {
       <div className='main-container'>
         {/* headder section */}
         <div className='heading-section'>
-          <h1 className='h-title'>Pokemon-Kingdom</h1>
+          <h1>Pokemon Kingdom</h1>
+          <h1>Pokemon Kingdom</h1>
         </div>
         {/* Pokemon container */}
         <div className='pokemon-container'>
